@@ -1,0 +1,14 @@
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\C#_intro\Change_values_task\Change_values_task\bin\Debug\netcoreapp3.1\Change_values_task.exe
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\C#_intro\Change_values_task\Change_values_task\bin\Debug\netcoreapp3.1\Change_values_task.deps.json
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\C#_intro\Change_values_task\Change_values_task\bin\Debug\netcoreapp3.1\Change_values_task.runtimeconfig.json
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\C#_intro\Change_values_task\Change_values_task\bin\Debug\netcoreapp3.1\Change_values_task.runtimeconfig.dev.json
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\C#_intro\Change_values_task\Change_values_task\bin\Debug\netcoreapp3.1\Change_values_task.dll
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\C#_intro\Change_values_task\Change_values_task\bin\Debug\netcoreapp3.1\Change_values_task.pdb
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\C#_intro\Change_values_task\Change_values_task\obj\Debug\netcoreapp3.1\Change_values_task.csproj.AssemblyReference.cache
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\C#_intro\Change_values_task\Change_values_task\obj\Debug\netcoreapp3.1\Change_values_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\C#_intro\Change_values_task\Change_values_task\obj\Debug\netcoreapp3.1\Change_values_task.AssemblyInfoInputs.cache
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\C#_intro\Change_values_task\Change_values_task\obj\Debug\netcoreapp3.1\Change_values_task.AssemblyInfo.cs
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\C#_intro\Change_values_task\Change_values_task\obj\Debug\netcoreapp3.1\Change_values_task.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\C#_intro\Change_values_task\Change_values_task\obj\Debug\netcoreapp3.1\Change_values_task.dll
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\C#_intro\Change_values_task\Change_values_task\obj\Debug\netcoreapp3.1\Change_values_task.pdb
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\C#_intro\Change_values_task\Change_values_task\obj\Debug\netcoreapp3.1\Change_values_task.genruntimeconfig.cache
